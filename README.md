@@ -5,7 +5,7 @@
 
 </div>
 
-# Hi, I'm Zakaria Outaazza 👋
+# Hi, I'm Zakaria Outaazza 
 
 <div align="center">
 
