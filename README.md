@@ -1,3 +1,10 @@
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B3D91,100:1684C4&height=220&section=header&text=ZAKARIA%20OUTAAZZA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=58&animation=fadeIn&stroke=1684C4&strokeWidth=1" />
+
+</div>
+
 # Hi, I'm Zakaria Outaazza 👋
 
 <div align="center">
