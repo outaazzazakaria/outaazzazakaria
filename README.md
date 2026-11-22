@@ -91,6 +91,15 @@ A web application for restaurant management and order organization.
 
 <div align="center">
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Zakaria's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=outaazzazakaria&theme=tokyo-night&hide_border=true&area=true)](https://github.com/outaazzazakaria)
+
+</div>
+
+
 ### 💙 Thanks for visiting my profile!
 
 **Code · Learn · Build · Grow**
