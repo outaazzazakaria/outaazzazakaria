@@ -23,6 +23,12 @@
 
 </div>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=outaazzazakaria&label=Profile%20Views&color=1684C4&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
