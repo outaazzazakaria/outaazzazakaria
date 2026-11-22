@@ -100,13 +100,20 @@ A web application for restaurant management and order organization.
 
 </div>
 
-## 🏆 GitHub Trophies
+
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=outaazzazakaria&theme=tokyonight&no-frame=true&row=1&column=6)
+| Certification | Organization |
+|:---:|:---:|
+| 🐍 Python | Cisco Networking Academy |
+| ⚡ JavaScript | Cisco Networking Academy |
+| 🤖 Robotics | National Robotics Competition |
+| 💻 Web Development | Personal & Academic Projects |
 
 </div>
+
 
 
 ### 💙 Thanks for visiting my profile!
