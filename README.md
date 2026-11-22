@@ -89,6 +89,7 @@ A web application for restaurant management and order organization.
 
 ---
 
+
 <div align="center">
 
 ## 📈 Contribution Activity
@@ -99,8 +100,6 @@ A web application for restaurant management and order organization.
 
 </div>
 
-
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -108,6 +107,7 @@ A web application for restaurant management and order organization.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=outaazzazakaria&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
+
 
 ### 💙 Thanks for visiting my profile!
 
